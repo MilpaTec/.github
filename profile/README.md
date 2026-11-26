@@ -20,13 +20,12 @@ Articulamos projeto mecânico e fabricação digital, eletrônica, firmware, con
 
 ## Pessoas
 
-- [João Victor Dutra](https://github.com/JVSDutra) — perfil e portfólio pessoal.
+- [João Victor Dutra](https://github.com/JVSDutra) — perfil pessoal no GitHub.
 - [David · CafeSemCafeina](https://github.com/CafeSemCafeina) — perfil no GitHub.
 
 ## Navegação
 
 - [Organização MilpaTec no GitHub](https://github.com/MilpaTec)
-- [Portfólio pessoal de João Victor](https://jvsdutra.github.io/)
 
 ## English
 
