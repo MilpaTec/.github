@@ -1,32 +1,36 @@
+<div align="center">
+
 # MilpaTec
 
 **Instrumentação científica · sensores conectados · telemetria**
 
-Desenvolvemos e integramos soluções para observar parâmetros físico-químicos e ambientais, conectando engenharia de produto, instrumentação, sistemas embarcados e análise de dados.
+Soluções integradas para monitoramento ambiental e educação experimental.
 
-## O que fazemos
+</div>
 
-| Área | Aplicações |
-| --- | --- |
-| **Água, solo e ar** | Instrumentação e monitoramento ambiental |
-| **Sensores e IoT** | Eletrônica embarcada e aquisição de dados |
-| **Telemetria** | Comunicação e acompanhamento de medições em campo e laboratório |
-| **Instrumentação científica** | Prototipagem de dispositivos e sistemas de medição |
-| **Educação** | Tecnologias e experiências de aprendizagem experimental |
+---
 
-## Como trabalhamos
+## Áreas de atuação
 
-Articulamos projeto mecânico e fabricação digital, eletrônica, firmware, conectividade e tratamento de dados. Cada repositório da organização documenta um recorte de projeto ou sistema; o acesso depende das permissões definidas para cada material.
+| Monitoramento ambiental | Instrumentação científica | Sistemas conectados |
+| --- | --- | --- |
+| Água, solo e ar | Desenvolvimento de dispositivos e sistemas de medição | Sensores, eletrônica embarcada e telemetria |
+
+## Da medição ao dado
+
+Integramos engenharia de produto, fabricação digital, eletrônica, firmware, conectividade e análise de dados para desenvolver e documentar soluções de monitoramento.
 
 ## Pessoas
 
-- [João Victor Dutra](https://github.com/JVSDutra) — perfil pessoal no GitHub.
-- [David · CafeSemCafeina](https://github.com/CafeSemCafeina) — perfil no GitHub.
+- [João Victor Dutra](https://github.com/JVSDutra) · GitHub pessoal
+- [David · CafeSemCafeina](https://github.com/CafeSemCafeina) · GitHub pessoal
 
-## Navegação
+## Repositórios
 
-- [Organização MilpaTec no GitHub](https://github.com/MilpaTec)
+Os repositórios da organização registram projetos, sistemas e documentação técnica. O acesso a cada material segue as permissões configuradas no GitHub.
+
+[Explorar a organização no GitHub](https://github.com/orgs/MilpaTec/repositories)
 
 ## English
 
-MilpaTec develops and integrates scientific instrumentation, connected sensors and telemetry for environmental monitoring and education. Our work combines product engineering, embedded systems, measurement devices and data analysis. This organization is home to project repositories and technical documentation.
+MilpaTec develops scientific instrumentation, connected sensors and telemetry for environmental monitoring and experimental education. Our work integrates product engineering, digital fabrication, electronics, firmware, connectivity and data analysis.
