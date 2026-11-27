@@ -25,12 +25,6 @@ Integramos engenharia de produto, fabricação digital, eletrônica, firmware, c
 - [João Victor Dutra](https://github.com/JVSDutra) · GitHub pessoal
 - [David · CafeSemCafeina](https://github.com/CafeSemCafeina) · GitHub pessoal
 
-## Repositórios
-
-Os repositórios da organização registram projetos, sistemas e documentação técnica. O acesso a cada material segue as permissões configuradas no GitHub.
-
-[Explorar a organização no GitHub](https://github.com/orgs/MilpaTec/repositories)
-
-## English
+## English summary
 
 MilpaTec develops scientific instrumentation, connected sensors and telemetry for environmental monitoring and experimental education. Our work integrates product engineering, digital fabrication, electronics, firmware, connectivity and data analysis.
