@@ -1,6 +1,9 @@
 <div align="center">
 
-# MilpaTec
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilpaTec/.github/main/brand/logo-milpatec-fundo-escuro.svg">
+  <img src="https://raw.githubusercontent.com/MilpaTec/.github/main/brand/logo-milpatec.svg" alt="MilpaTec" width="420">
+</picture>
 
 **Instrumentação científica · sensores conectados · telemetria**
 
